@@ -9,6 +9,8 @@ Things you may want to cover:
 
 * System dependencies
 
+trying with latest capybara and rspec-rails gems!~
+
 * Configuration
 
 * Database creation
